@@ -5,14 +5,16 @@
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  <!--social media icon-->
 <div align="center">
-  </a>
+
 <a href="https://www.linkedin.com/in/tanya-chetna-vaish-39902a1a2/">
   <img align="left" alt="Tanya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/tanya_chetna_vaish/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Tanya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TanyaChetnaVaish.TanyaChetnaVaish)
+
+![](https://visitor-badge.glitch.me/badge?page_id=TanyaChetnaVaish.TanyaChetnaVaish)
+
 
 </div>  
 
