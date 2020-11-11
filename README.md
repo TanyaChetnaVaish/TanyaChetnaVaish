@@ -16,31 +16,33 @@ Hi, I'm [Tanya Chetna Vaish](https://www.linkedin.com/in/tanya-chetna-vaish-3990
 
 **Talking about Personal Stuffs:**
 
-- 👩‍💻 I’m currently learning & working on something cool :wink:;
-- 🌱 I’m currently learning Flutter and Java; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@TanyaChetnaVaish](https://www.linkedin.com/in/tanya-chetna-vaish-39902a1a2/);
-- 📝[Resume](https://drive.google.com/file/d/1LwktAF8eYfXyd-_2o3fyfNWiHjLyrKVW/view?usp=sharing)
+- 🌱  I’m currently learning Flutter and Java; 
+- ☁️  I'm learning Machine Learning and advancing to above beginner concepts in Cloud Computing
+- 💬  Ask me about anything, I am happy to help;
+- 📫  How to reach me: [@TanyaChetnaVaish](https://www.linkedin.com/in/tanya-chetna-vaish-39902a1a2/);
+- 📝  [Resume](https://drive.google.com/file/d/1LwktAF8eYfXyd-_2o3fyfNWiHjLyrKVW/view?usp=sharing)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jenkin/jenkin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 
 
 
 
-</div>  
 
-</br>
 
-<!--
-**TanyaChetnaVaish/TanyaChetnaVaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📈 My GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TanyaChetnaVaish&show_icons=true&theme=gotham" alt="TanyaChetnaVaish" />
