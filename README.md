@@ -8,6 +8,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=TanyaChetnaVaish.TanyaChetnaVaish)
 <br />
+Hi, I'm [Tanya Chetna Vaish](https://www.linkedin.com/in/tanya-chetna-vaish-39902a1a2/) ,a DevOps and Machine Learning ethusiast from India, currently, I'm pursuing B.tech👩‍💻  in Computer Science with Specialisation in ML & AI from IBM at Graphic Era Deemed To Be University,Dehradun.I'm a Technical Lead👩🏻‍💼 for Cloud Computing in Developers Students Club at GEU.
 <!--Header-->
 
   <img align="left" alt="GIF" src="https://github.com/TanyaChetnaVaish/TanyaChetnaVaish/blob/main/assets/0_K2WLMTExLyida7OR.gif" width="450" height="320" />
