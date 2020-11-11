@@ -1,11 +1,4 @@
 ## Hi everyone!  I am Tanya  👩🏻‍🎓
-<!--Header-->
-
-  <img align="left" alt="GIF" src="https://github.com/TanyaChetnaVaish/TanyaChetnaVaish/blob/main/assets/0_K2WLMTExLyida7OR.gif" width="450" height="320" />
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
- <!--social media icon-->
-<div align="center">
-
 <a href="https://www.linkedin.com/in/tanya-chetna-vaish-39902a1a2/">
   <img align="left" alt="Tanya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -14,6 +7,15 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=TanyaChetnaVaish.TanyaChetnaVaish)
+<br />
+<!--Header-->
+
+  <img align="left" alt="GIF" src="https://github.com/TanyaChetnaVaish/TanyaChetnaVaish/blob/main/assets/0_K2WLMTExLyida7OR.gif" width="450" height="320" />
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+ <!--social media icon-->
+<div align="center">
+
+
 
 
 </div>  
