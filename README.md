@@ -17,7 +17,7 @@ Hi, I'm [Tanya Chetna Vaish](https://www.linkedin.com/in/tanya-chetna-vaish-3990
 **Talking about Personal Stuffs:**
 
 - 🌱  I’m currently learning Flutter and Java; 
-- ☁️  I'm learning Machine Learning and advancing to above beginner concepts in Cloud Computing
+- ☁️  I'm learning Machine Learning and advancing to above beginner concepts in Cloud Computing;
 - 💬  Ask me about anything, I am happy to help;
 - 📫  How to reach me: [@TanyaChetnaVaish](https://www.linkedin.com/in/tanya-chetna-vaish-39902a1a2/);
 - 📝  [Resume](https://drive.google.com/file/d/1LwktAF8eYfXyd-_2o3fyfNWiHjLyrKVW/view?usp=sharing)
@@ -46,6 +46,5 @@ Hi, I'm [Tanya Chetna Vaish](https://www.linkedin.com/in/tanya-chetna-vaish-3990
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TanyaChetnaVaish&show_icons=true&theme=gotham" alt="TanyaChetnaVaish" />
-  
   
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
