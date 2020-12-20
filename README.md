@@ -20,7 +20,7 @@ Hi, I'm [Tanya Chetna Vaish](https://www.linkedin.com/in/tanya-chetna-vaish-3990
 - ☁️  I'm learning Machine Learning and advancing to above beginner concepts in Cloud Computing;
 - 💬  Ask me about anything, I am happy to help;
 - 📫  How to reach me: [@TanyaChetnaVaish](https://www.linkedin.com/in/tanya-chetna-vaish-39902a1a2/);
-- 📝  [Resume](https://drive.google.com/file/d/1LwktAF8eYfXyd-_2o3fyfNWiHjLyrKVW/view?usp=sharing)
+
 
 **Languages and Tools:**  
 
